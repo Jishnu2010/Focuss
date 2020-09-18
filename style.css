@@ -1,0 +1,14 @@
+.nav{
+text-align: center;
+background-color: red;
+border:4px dashed steelblue ;}
+.nav a{
+text-decoration:none;
+padding-left:5px ;
+padding-right:5px;
+color: yellow;}
+.p{
+text-align: center;
+color:blue ;
+background-color:yellow;
+border:2px solid red;}
