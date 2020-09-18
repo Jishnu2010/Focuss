@@ -1,13 +1,18 @@
 .nav {
-text-align: center;
-background-color: red;
-border:4px dashed steelblue ;}
+  text-align: center;
+  background-color: red;
+  border:4px dashed steelblue ;}
 .nav a{
   width:180%;
-text-decoration:none;
-padding-left:10px;
-padding-right:10px;}
+  text-decoration:none;
+  padding-left:10px;
+  padding-right:10px;}
   color:yellow;}
 h2{
-text-align:center;
-color:blue;}
+  text-align:center;
+  color:blue;}
+.p{
+  text-align:center;
+  background-color:yellow;
+  color:red;
+  border:2px solid red;}
