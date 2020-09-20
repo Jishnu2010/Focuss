@@ -1,7 +1,8 @@
 .nav{
 text-align: center;
 background-color: red;
-border:4px dashed steelblue ;}
+border:4px dashed steelblue ;
+breadth:90px;}
 .nav a{
 text-decoration:none;
 padding-left:15px ;
