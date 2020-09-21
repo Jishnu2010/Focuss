@@ -18,3 +18,7 @@ h2{
 text-align:center;
 color:blue;
 font-size:50px}
+.home{
+background: url("scenery");
+  background-size:cover;
+  height100vh;}
