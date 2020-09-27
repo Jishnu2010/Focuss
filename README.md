@@ -1,2 +1,2 @@
 # Focuss
-Site:https://focusstheprideofdurgapur.netlify.app/
+Site:https://focussdurgapur.netlify.app/
