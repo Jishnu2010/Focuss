@@ -1,0 +1,26 @@
+.nav{
+text-align: center;
+background-color: red;
+border:4px dashed steelblue ;
+font-family:serif;
+margin-top:10px ;}
+.nav a{
+text-decoration:none;
+padding-left:15px ;
+padding-right:15px;
+color: yellow;
+font-size:30px;
+font-family:serif;}
+.p{
+text-align: center;
+color:#9ffff9;
+border:2px solid red;
+font-size:65px;
+font-family:serif;
+background:url("scenery.jpg") ;}
+h2{
+text-align:center;
+color:blue;
+font-size:50px;
+font-family:serif;}
+
