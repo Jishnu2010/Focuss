@@ -17,7 +17,8 @@ color: #9ffff9;
 border:2px solid red;
 font-size:65px;
 font-family:serif;
-background:url("scenery.jpg") ;}
+background:url("scenery.jpg") ;
+overflow:auto:}
 h2{
 text-align:center;
 color:blue;
