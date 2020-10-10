@@ -23,4 +23,7 @@ text-align:center;
 color:blue;
 font-size:50px;
 font-family:serif;}
-
+button{
+  position:absolute;
+  right:0px;
+  display:fixed;}
