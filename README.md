@@ -2,5 +2,5 @@
 # Focuss
 Site:https://focussdurgapur.netlify.app/
 ``g``    
-`g|
+`g`
 ```g```
